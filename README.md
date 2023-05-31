@@ -5,7 +5,7 @@ Bangkit CAPSTONE project:  Fruisca: App for Checking Fruit Freshness
 
 | Name                              | Bangkit-ID   | Github-Profile                        |
 | --------------------------------- | ------------ | ------------------------------------- |
-| Joshua Immanuel Fransisko Manurung| M350DSX2835  | link      |
+| Joshua Immanuel Fransisko Manurung| M350DSX2835  | [Joshua Immanuel Fransisko Manurung](https://github.com/josh209062)      |
 | Oki Gunawan Pratama               | M168DSX2576  | [Oki Gunawan Pratama](https://github.com/SvZero)                |
 | Gilbert O.K.D. Malau              | M350DSX2584  | link                |
 | Bintang Aulia Nugraha             | C068DSX3264  | link                   |
