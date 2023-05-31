@@ -3,7 +3,7 @@ Bangkit CAPSTONE project:  Fruisca: App for Checking Fruit Freshness
 
 #Capstone Project Team:
 
-| Name                              | Bangkit-ID   | University |    | Github-Profile                        |
+| Name                              | Bangkit-ID   | University |    Github-Profile                        |
 | --------------------------------- | ------------ |------------|------------------------------------- |
 | Joshua Immanuel Fransisko Manurung| M350DSX2835  |Universitas Sumatera Utara| [Joshua Immanuel Fransisko Manurung](https://github.com/josh209062)      |
 | Oki Gunawan Pratama               | M168DSX2576  |Universitas EsaUnggul |[Oki Gunawan Pratama](https://github.com/SvZero)                |
