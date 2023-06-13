@@ -1,3 +1,4 @@
+
 Bangkit CAPSTONE project: Fruisca: App for Checking Fruit Freshness
 
 # Capstone Project Team:
@@ -10,3 +11,6 @@ Bangkit CAPSTONE project: Fruisca: App for Checking Fruit Freshness
 | Bintang Aulia Nugraha              | C068DSX3264 | Politeknik Negeri Padang    | [Bintang Aulia Nugraha](https://github.com/Bintangaulia9)           |
 | Yosi Gusmiati                      | C068DSY3199 | Politeknik Negeri Padang    | [Yosi Gusmiati](https://github.com/YosiGusmiati)                    |
 | Glendito Rayadi S                  | A040DKX4513 | Institut Teknologi Sumatera | [Glendito Rayadi S](https://github.com/glenditosmg25)               |
+
+
+
